@@ -5,7 +5,9 @@
 3. Morse code to Text message
 4. Morse code to Encoded MIDI Music file
 
-Has a log of all translations made so far in a particular account.
+Has a log of all translations made so far in a particular account.<br><br>
+Ignore bad coding habits, this was my first real project.<br>
+Created in 2019.
 
 ## Sample Images
 ### Login Window
